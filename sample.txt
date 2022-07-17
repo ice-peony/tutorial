@@ -1,2 +1,3 @@
 /usr/bin/bash: q: command not found
 连猴子
+add 把变更录入到索引中
