@@ -1,0 +1,2 @@
+/usr/bin/bash: q: command not found
+连猴子
