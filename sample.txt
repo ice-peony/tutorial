@@ -1,3 +1,4 @@
 /usr/bin/bash: q: command not found
 连猴子
 add 把变更录入到索引中
+commit 记录索引的状态
