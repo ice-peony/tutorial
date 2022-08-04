@@ -7,5 +7,6 @@ int main{
 	min = MIN(a, b);
 	printf("small one is %d\n", min);
 	printf("hello World!");
+	
 	return 0;
 }
